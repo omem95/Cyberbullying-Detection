@@ -17,10 +17,10 @@
 
 ## Planning
 
-- 데이터 수집 → 정제 → 모델링까지 ****진행한 프로젝트 입니다.
+- 데이터 수집 → 정제 → 모델링까지 진행한 프로젝트 입니다.
 - 당시 배우고 있던 NLP, Deep Learning을 활용하면서 GPT가 하지 못하는 주제를 고민했고, GPT의 **한국어 성능이 상대적으로 부족**하며 **비속어가 포함된 질문에 답변을 제한**한다는 것에 주목했습니다.
 - 관련 주제를 탐색 중 사이버 언어 폭력의 빈도와 강도가 심화되고 있으나 예방 및 대응책이 부족하다는 점과 **변화가 빠르고 표현이 다양**한 비속어, 혐오 표현이 사용된다는 점을 알게 되었습니다.
-    - 근거
+    - 근거:
         
         [NARS 현안 분석 보고서](https://www.nars.go.kr/report/view.do?categoryId=&cmsCode=CM0043&searchType=TITLE&searchKeyword=%EC%BD%94%EB%A1%9C%EB%82%9819%20%EC%9D%B4%ED%9B%84%20%EC%82%AC%EC%9D%B4%EB%B2%84%20%ED%95%99%EA%B5%90%ED%8F%AD%EB%A0%A5%20%EC%8B%A4%ED%83%9C%20%EB%B0%8F%20%EA%B0%9C%EC%84%A0%EA%B3%BC%EC%A0%9C&brdSeq=34238), [KERIS 연구 보고서](https://www.keris.or.kr/main/ad/pblcte/selectPblcteRRInfo.do?mi=1138&pblcteSeq=13138)
         
